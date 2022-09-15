@@ -1,0 +1,45 @@
+.productLinks {
+  color: white;
+}
+
+.smallText {
+  font-size: 0.8em;
+}
+
+.sm-text {
+  font-size: 0.8em;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+#footer {
+  background-color: #efefef;
+  flex: 0 0 50px;
+  margin-top: auto;
+}
+
+.lg-card {
+  width: 30em;
+}
+
+.sm-text {
+  font-size: 0.8em;
+}
+
+.textWrap {
+  float: left;
+  margin: 20px;
+  border: dotted;
+}
+
+.blue {
+  color: #202155;
+}
+
+.red {
+  color: #c44b17;
+}
